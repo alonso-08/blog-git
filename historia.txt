@@ -4,3 +4,5 @@ aprendiendo git para despues ser un desarrollador profesional.
 
 Programo en Python pero quiero aprender JavaScript
 Tambien me gusta el futbol
+
+mi jefe es puto
