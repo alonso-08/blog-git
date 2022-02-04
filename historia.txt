@@ -1,0 +1,3 @@
+Soy Alonso tengo 31 años, nací en Oaxaca,
+ahora vivo en Guadalajara y estoy aprendiendo
+git, para despues ser un desarrollador profesional.
