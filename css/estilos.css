@@ -2,4 +2,15 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
+    margin: 0;
+}
+#container{
+    border: 1px solid #000;
+    border-style:double;
+    background-color: rgb(10, 241, 99);
+    margin: 0 auto;
+    padding: 1em;
+    width: 80%;
+    
+
 }
